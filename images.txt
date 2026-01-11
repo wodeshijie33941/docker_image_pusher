@@ -1,8 +1,1 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-# test
-# test02
-ghcr.io/flannel-io/flannel:v0.28.0
-ghcr.io/flannel-io/flannel-cni-plugin:v1.8.0-flannel1
-docker.io/rook/ceph:v1.18.8
+quay.io/cephcsi/ceph-csi-operator:v0.4.1

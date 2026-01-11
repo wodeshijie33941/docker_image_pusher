@@ -1,1 +1,2 @@
+# this is ceph, not rook ceph
 quay.io/ceph/ceph:v19.2.3
